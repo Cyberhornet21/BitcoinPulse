@@ -20,7 +20,7 @@
 1. Push this repo to GitHub (any branch, e.g. `main`)
 2. Go to **Settings → Pages**
 3. Source: **Deploy from a branch** → `main` → `/ (root)`
-4. Your site will be live at [[`https://vibecodingfelix.github.io/Bitcoin-Pulse/](https://cyberhornet21.github.io/BitcoinPulse/)`
+4. Your site will be live at [https://cyberhornet21.github.io/BitcoinPulse/](https://cyberhornet21.github.io/BitcoinPulse/)`
 
 That's it. No npm, no build, no config.
 
